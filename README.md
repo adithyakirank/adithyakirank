@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @adithyakirank
-- 👀 I’m interested in ... Firmware, Python + Django, CI/CD pipelines, Automation in general
-- 🌱 I’m currently learning ... ReactJS, Learning to speak Django like a native
-- 💞️ I’m looking to collaborate on ... Anything like Jenkins but in Python
-- 📫 How to reach me ... adithyakiran16@gmail.com
+- 👀 I’m interested in ... Firmware, Python + Django, CI/CD pipelines, Automation 
 
 <!---
 adithyakirank/adithyakirank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
