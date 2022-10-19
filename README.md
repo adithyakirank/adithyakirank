@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adithyakirank
-- 👀 I’m interested in ... Firmware, Python + Django, CI/CD pipelines, Automation 
+- 👀 I’m interested in ... Firmware, Python + Django, CI-CD / Automation 
 
 <!---
 adithyakirank/adithyakirank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
