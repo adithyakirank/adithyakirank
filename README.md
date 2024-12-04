@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @adithyakirank
-- 👀 I’m interested in ... Firmware, Python + Django, CI-CD / Automation 
+- 👋 Hi, I’m Adithya
+- 👀 I’m interested in ... Firmware, Python, CI-CD, Test Automation
+- 🚁 Currently learning to build custom UAVs using Betaflight
 
 <!---
 adithyakirank/adithyakirank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
